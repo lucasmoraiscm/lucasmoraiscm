@@ -1,4 +1,4 @@
-### Hi there! I'm Lucas Morais! 👋
+## Hi there! I'm Lucas Morais! 👋
 
 - 🎓 Student at the Instituto Federal do Piauí (IFPI)
 - 👨🏽‍💻 I'm studying Python, JavaScript, HTML, CSS & PostgresSQL
@@ -20,11 +20,15 @@
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-PostgresSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Lucas-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Lucas-VSTrelo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
 </div>
 
   ##
 
 <div>
-  <a href="https://instagram.com/lucas_moraiscm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/pystarting" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/lucas_moraiscm" target="_blank"><img height="20" width="80" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/pystarting" target="_blank"><img height="20" width="80" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/profile.php?id=100006135795584" target="_blank"><img height="20" width="80" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href = "mailto:lucasmoraiscm11@gmail.com"><img height="20" width="80" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
