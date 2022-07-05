@@ -1,7 +1,7 @@
 ## Hi there! I'm Lucas Morais! 👋
 
 - 🎓 Student at the Instituto Federal do Piauí (IFPI)
-- 👨🏽‍💻 I'm studying Python, JavaScript, HTML, CSS & PostgresSQL
+- 👨🏽‍💻 I'm studying Python, JavaScript, HTML, CSS & PostgreSQL
 - 📚 I'm producing content about Python on Instagram (@pystarting)
 - 😉 Pronouns: He/Him
 - 🇧🇷 From Brazil
