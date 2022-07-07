@@ -1,14 +1,14 @@
 ## Hi there! I'm Lucas Morais! _(Olá! Sou Lucas Morais!)_ 👋
 
-- #### 🎓 Student at the Instituto Federal do Piauí (IFPI)  
+- ### 🎓 Student at the Instituto Federal do Piauí (IFPI)  
   _Aluno do Instituto Federal do Piauí (IFPI)_
-- #### 👨🏽‍💻 I'm studying Python, JavaScript, HTML, CSS & PostgreSQL  
+- ### 👨🏽‍💻 I'm studying Python, JavaScript, HTML, CSS & PostgreSQL  
   _Estudando Python, JavaScript, HTML, CSS & PostgreSQL_
-- #### 📚 I'm producing content about Python on Instagram (@pystarting)  
+- ### 📚 I'm producing content about Python on Instagram (@pystarting)  
   _Produzindo conteúdos sobre Python no Instagram (@pystarting)_
-- #### 😉 Pronouns: He/Him  
+- ### 😉 Pronouns: He/Him  
   _Pronomes: Ele/Dele_
-- #### 🇧🇷 From Brazil  
+- ### 🇧🇷 From Brazil  
   _De Brasil_
 
  ##
