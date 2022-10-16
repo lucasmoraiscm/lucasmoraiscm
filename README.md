@@ -1,6 +1,6 @@
 ## Hi there! I'm Lucas Morais! _(Olá! Sou Lucas Morais!)_ 👋
 
-- ### 🎓 Student at the Instituto Federal do Piauí (IFPI)  
+- ### 🎓 Student at the Federal Institute of Piauí (IFPI)  
   _Aluno do Instituto Federal do Piauí (IFPI)_
 - ### 👨🏽‍💻 I'm studying Python, JavaScript, HTML, CSS & PostgreSQL  
   _Estudando Python, JavaScript, HTML, CSS & PostgreSQL_
