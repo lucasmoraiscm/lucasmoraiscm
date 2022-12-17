@@ -2,8 +2,8 @@
 
 - ### 🎓 Computer Technician at the Federal Institute of Piauí (IFPI)  
   _Técnico em Informática pelo Instituto Federal do Piauí (IFPI)_
-- ### 👨🏽‍💻 I'm studying Python, JavaScript, HTML, CSS & PostgreSQL  
-  _Estudando Python, JavaScript, HTML, CSS & PostgreSQL_
+- ### 👨🏽‍💻 I'm studying Python, C++, JavaScript, HTML, CSS & PostgreSQL  
+  _Estudando Python, C++, JavaScript, HTML, CSS & PostgreSQL_
 - ### 📚 I'm producing content about Python on Instagram (@pystarting)  
   _Produzindo conteúdos sobre Python no Instagram (@pystarting)_
 - ### 😉 Pronouns: He/Him  
