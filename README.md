@@ -1,15 +1,14 @@
-## Hi there! I'm Lucas Morais! _(Olá! Sou Lucas Morais!)_ 👋
+## Olá! Sou Lucas Morais! 👋
 
-- ### 🎓 Computer Technician at the Federal Institute of Piauí (IFPI)  
-  _Técnico em Informática pelo Instituto Federal do Piauí (IFPI)_
-- ### 👨🏽‍💻 I'm studying Python, C++, JavaScript, HTML, CSS & PostgreSQL  
-  _Estudando Python, C++, JavaScript, HTML, CSS & PostgreSQL_
-- ### 📚 I'm producing content about Python on Instagram (@pystarting)  
-  _Produzindo conteúdos sobre Python no Instagram (@pystarting)_
-- ### 😉 Pronouns: He/Him  
-  _Pronomes: Ele/Dele_
-- ### 🇧🇷 From Brazil  
-  _De Brasil_
+- ### 🎓 Técnico em Informática pelo Instituto Federal do Piauí (IFPI) 
+
+- ### 👨🏽‍💻 Estudando Python, C++, JavaScript, HTML, CSS & PostgreSQL
+
+- ### 📚 Produzindo conteúdos sobre Python no Instagram (@pystarting)  
+
+- ### 😉 Pronomes: Ele/Dele  
+
+- ### 🇧🇷 De Brasil 
 
  ##
  
@@ -22,6 +21,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Lucas-CPlusPlus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-PostgresSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
