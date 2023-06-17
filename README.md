@@ -2,7 +2,7 @@
 
 - ### 🎓 Técnico em Informática pelo Instituto Federal do Piauí (IFPI) 
 
-- ### 👨🏽‍💻 Estudando Python, C++, JavaScript, HTML, CSS & PostgreSQL
+- ### 👨🏽‍💻 Estudando Python, JavaScript, HTML, CSS & PostgreSQL
 
 - ### 📚 Produzindo conteúdos sobre Python no Instagram (@pystarting)  
 
@@ -21,7 +21,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Lucas-CPlusPlus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
+  <!-- <img align="center" alt="Lucas-CPlusPlus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"> -->
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-PostgresSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
