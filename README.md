@@ -1,6 +1,8 @@
 ## Olá! Sou Lucas Morais! 👋
 
-- ### 🎓 Técnico em Informática pelo Instituto Federal do Piauí (IFPI) 
+- ### 🎓 Graduando em Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Piauí (IFPI)
+  
+- ### 💻 Técnico em Informática pelo Instituto Federal do Piauí (IFPI) 
 
 - ### 👨🏽‍💻 Estudando Python, JavaScript, HTML, CSS & PostgreSQL
 
