@@ -4,7 +4,7 @@
   
 - ### 💻 Técnico em Informática pelo Instituto Federal do Piauí (IFPI) 
 
-- ### 👨🏽‍💻 Estudando Python, JavaScript, HTML, CSS & PostgreSQL
+- ### 👨🏽‍💻 Estudando Python, JavaScript, HTML, CSS & SQL
 
 - ### 📚 Produzindo conteúdos sobre Python no Instagram (@pystarting)  
 
