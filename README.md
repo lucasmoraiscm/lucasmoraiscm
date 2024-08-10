@@ -6,8 +6,6 @@
 
 - ### 👨🏽‍💻 Estudando Python, JavaScript, HTML, CSS & SQL
 
-- ### 📚 Produzindo conteúdos sobre Python no Instagram (@pystarting)  
-
 - ### 😉 Pronomes: Ele/Dele  
 
 - ### 🇧🇷 De Brasil 
