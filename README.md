@@ -4,11 +4,7 @@
   
 - ### 💻 Técnico em Informática pelo Instituto Federal do Piauí (IFPI) 
 
-- ### 👨🏽‍💻 Estudando Python, JavaScript, HTML, CSS & SQL
-
-- ### 😉 Pronomes: Ele/Dele  
-
-- ### 🇧🇷 De Brasil 
+- ### 👨🏽‍💻 Estudando Python, JavaScript, HTML, CSS & SQL 
 
  ##
  
