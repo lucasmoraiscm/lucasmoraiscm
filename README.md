@@ -29,7 +29,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/lucas-moraiscm"> <img height="20" widht="80" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-  <a href="https://instagram.com/lucas_moraiscm" target="_blank"> <img height="20" width="80" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"> </a>
-  <a href="https://instagram.com/pystarting" target="_blank"> <img height="20" width="80" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"> </a>
+  <a href="https://instagram.com/lucas_moraiscm" target="_blank"> <img height="20" width="80" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a>
+  <a href="https://instagram.com/pystarting" target="_blank"> <img height="20" width="80" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a>
   <a href = "mailto:lucasmoraiscmdev@gmail.com"> <img height="20" width="80" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 </div>
